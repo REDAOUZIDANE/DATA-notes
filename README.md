@@ -1,0 +1,1 @@
+salam alaikon, after a lot of hard work this is my resumer of all the data science stuff , also Deep learning and machin learning , if u need anything i will be more than happy to answers this is my email , redaouzidan@gmail.com
