@@ -73,6 +73,7 @@ My personal war chest of data science knowledge - distilled from countless hours
 <div align="center">
   
 Made with ❤️ and too much coffee by **Reda Ouzidane**  
+https://paypal.me/OUZIDANE?country.x=MA&locale.x=en_US
 *"The data doesn't lie... but it needs the right interpreter"*
 
 </div>
